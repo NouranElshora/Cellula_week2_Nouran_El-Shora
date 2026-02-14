@@ -52,9 +52,11 @@ cd Cellula_week2_Nouran_El-Shora/Toxic content classification project
 
 2. Create a virtual environment:
 
+```bash
 python -m venv venv
 source venv/Scripts/activate   # Windows
 
 3. Install dependencies:
 
+```bash
 pip install -r requirements.txt
