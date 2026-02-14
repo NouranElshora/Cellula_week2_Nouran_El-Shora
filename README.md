@@ -49,14 +49,18 @@ The project uses a **modular structure**, separating the image captioning, class
 ```bash
 git clone https://github.com/NouranElshora/Cellula_week2_Nouran_El-Shora.git
 cd Cellula_week2_Nouran_El-Shora/Toxic content classification project
+```
 
 2. Create a virtual environment:
 
 ```bash
 python -m venv venv
-source venv/Scripts/activate   # Windows
+source venv/Scripts/activate
+```
 
-3. Install dependencies:
+3.Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
